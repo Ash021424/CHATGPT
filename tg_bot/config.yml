@@ -1,4 +1,4 @@
-telegram_token: "7519466093:AAFsduq0HfhUrdLqYYudLCM-JqB9xvtBQ-g"
+telegram_token: "8103926310:AAGOiqxA5XMGAg96YgZvhKu-0llyCNHkI5s"
 openai_api_key: "q1e1VWenSNBXdaTS3_3FsFhNivvWy9E95sU0_uSjvxk-"
 openai_api_base: null  # leave null to use default api base or you can put your own base url here
 allowed_telegram_usernames: []  # if empty, the bot is available to anyone. pass a username string to allow it and/or user ids as positive integers and/or channel ids as negative integers
